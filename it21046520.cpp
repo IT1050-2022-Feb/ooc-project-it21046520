@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Cart class creation
+// Cart class create
 
 class Cart {
 
